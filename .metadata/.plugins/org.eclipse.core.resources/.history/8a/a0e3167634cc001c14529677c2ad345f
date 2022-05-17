@@ -1,0 +1,6 @@
+package com.app.model;
+
+@Entity
+public class Employee {
+
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;Payment.java&apos; to &apos;order-service/src/main/java/com.java.techie.orderservice.common&apos;&#x0D;&#x0A;- Original project: &apos;payment-service&apos;&#x0D;&#x0A;- Destination element: &apos;order-service/src/main/java/com.java.techie.orderservice.common&apos;&#x0D;&#x0A;- Original element: &apos;com.java.techie.paymentservice.entity.Payment.java&apos;" description="Copy compilation unit" destination="=order-service/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.java.techie.orderservice.common" element1="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.java.techie.paymentservice.entity{Payment.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1650355680276" units="1" version="1.0"/>
+</session>

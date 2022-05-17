@@ -1,0 +1,9 @@
+INDEX VERSION 1.4+E:\Legaldms\ApplicationCode\Java\Services\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+649072311.index
+3502080788.index
+3111972957.index
+1127145089.index
+1244718733.index
+3471394732.index
+4041233220.index
+3494511111.index
